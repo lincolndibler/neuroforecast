@@ -40,7 +40,7 @@ footer {
 """, unsafe_allow_html=True)
 
 # ---- SPLASH SCREEN ----
-image_path = os.path.join(os.path.dirname(__file__), "Blank_3.png")
+image_path = os.path.join(os.path.dirname(__file__), "assets", "logo.png")
 
 query_params = st.query_params
 if "entered" in query_params:
