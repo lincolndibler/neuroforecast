@@ -1,0 +1,21 @@
+{
+  "shared_features": [
+    "MMDAY",
+    "MMMONTH",
+    "MMFLOOR",
+    "WORD1DL",
+    "WORD3DL",
+    "MMSEASON",
+    "MMREPEAT",
+    "WORD2DL",
+    "MMDATE",
+    "MMYEAR",
+    "MMDRAW",
+    "MMHOSPIT",
+    "MMAREA"
+  ],
+  "unique_to_severe": [
+    "MMWRITE",
+    "MMONFLR"
+  ]
+}

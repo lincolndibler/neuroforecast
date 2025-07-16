@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+catboost
+pandas
+pydantic
+scikit-learn
+jupyter
