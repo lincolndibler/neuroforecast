@@ -44,3 +44,4 @@ streamlit run app.py
   "MMDRAW": 1
 }
 
+📹 [Download neuroforecastTutorial.mp4](https://github.com/lincolndibler/neuroforecast/blob/master/demo/neuroforecastTutorial.mp4)
