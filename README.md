@@ -29,10 +29,18 @@ streamlit run app.py
 ## 🧾 Sample Input
 
 {
-  "MMYEAR": 2024,
   "WORD3DL": 1,
+  "MMYEAR": 2025,
   "MMREPEAT": 2,
-  "VISSPATIAL": 1,
-  "RECALL": 0,
-  "ORIENT": 5
+  "MMMONTH": 7,
+  "MMDATE": 16,
+  "MMAREA": 1,
+  "MMHOSPIT": 1,
+  "MMDAY": 3,
+  "WORD2DL": 1,
+  "WORD1DL": 0,
+  "MMFLOOR": 2,
+  "MMSEASON": 3,
+  "MMDRAW": 1
 }
+
